@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// README.md 
+
 ![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=Ebrarkaraa&theme=highcontrast&show_icons=true&count_private=true )
 
 
-// BENİOKU.md
+
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrarkaraa&layout=compact )
